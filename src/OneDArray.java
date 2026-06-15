@@ -22,5 +22,6 @@ public class OneDArray {
 					}
 				}
 				System.out.print("]");
+				scan.close();
 		}
 }

@@ -12,7 +12,9 @@ public class OneDArray1 {
 		System.out.println("Elements elements");
 		for(int i=0; i <= 2; i++) {
 			System.out.println(a[i]);
+			
 		}
+		scan.close();
 	}
 
 
