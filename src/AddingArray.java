@@ -7,7 +7,7 @@ public class AddingArray {
 	        
 	        // TODO: Create a 1D array of integers with size 5
 	        System.out.println("Enter the size of an array: ");
-	        int size = 5;   
+	        int size = scanner.nextInt();   
 	        int arr[] = new int[size];
 	    
 	        // TODO: Populate the array with user input
